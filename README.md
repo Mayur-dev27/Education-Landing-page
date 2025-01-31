@@ -1,3 +1,3 @@
-# oibsip_taskno1
+# Education Landing page
 
 Simple Learning landing Page...
